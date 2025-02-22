@@ -1,4 +1,4 @@
-package pixel.academy.spring_container.common;
+package util;
 
 import org.springframework.stereotype.Component;
 
