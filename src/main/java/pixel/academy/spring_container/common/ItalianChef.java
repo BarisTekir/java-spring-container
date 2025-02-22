@@ -1,4 +1,4 @@
-package pixel.academy.spring_container;
+package pixel.academy.spring_container.common;
 
 import org.springframework.stereotype.Component;
 
@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 public class ItalianChef implements Chef{
     @Override
     public String getDailyRecipe(){
-        return "Prepare pasta al pomodoro with fresh tomatoes and basil";
+        return "Prepare pasta al pomodoro with fresh tomatoes and basil!";
     }
+
 }

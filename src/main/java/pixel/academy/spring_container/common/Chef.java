@@ -1,4 +1,4 @@
-package pixel.academy.spring_container;
+package pixel.academy.spring_container.common;
 
 public interface Chef {
 
